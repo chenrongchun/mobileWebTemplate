@@ -4,3 +4,6 @@
 
 # 链接/link
 [See](https://chenrongchun.github.io/mobileWebTemplate/)
+
+## 请使用手机预览
+Please use the phone sea the web template.
